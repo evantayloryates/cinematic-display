@@ -1,0 +1,1 @@
+export { default as Apollo } from './apollo.js'
