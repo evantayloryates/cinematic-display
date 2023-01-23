@@ -1,12 +1,11 @@
 import './App.css';
 
-// import { Apollo } from './cinematic-displays';
+import { Apollo } from './cinematic-displays';
 
 function App() {
   return (
     <div>
-      {/* <Apollo /> */}
-      Hello World!
+      <Apollo />
     </div>
   );
 }
