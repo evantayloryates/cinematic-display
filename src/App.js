@@ -4,7 +4,7 @@ import { Apollo } from './cinematic-displays';
 
 function App() {
   return (
-    <div>
+    <div style={{padding: '32px'}}>
       <Apollo />
     </div>
   );
