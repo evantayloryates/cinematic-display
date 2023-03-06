@@ -1,23 +1,32 @@
 {
   "files": {
-    "main.css": "/cinematic-display/static/css/main.b8d984c6.css",
-    "main.js": "/cinematic-display/static/js/main.c65dcb86.js",
+    "main.css": "/cinematic-display/static/css/main.99cf1b4f.css",
+    "main.js": "/cinematic-display/static/js/main.14596fbf.js",
     "static/js/787.9e943b1c.chunk.js": "/cinematic-display/static/js/787.9e943b1c.chunk.js",
     "static/media/media-with-intro-small.mp4": "/cinematic-display/static/media/media-with-intro-small.ec7a1a15a70fd3e2c670.mp4",
+    "static/media/product-main-image.png": "/cinematic-display/static/media/product-main-image.765675129f44e5053c72.png",
+    "static/media/havana_product.png": "/cinematic-display/static/media/havana_product.27da10be67e041f560ae.png",
+    "static/media/forest_product.png": "/cinematic-display/static/media/forest_product.c9a916321fa0764f22aa.png",
+    "static/media/field_tan_product.png": "/cinematic-display/static/media/field_tan_product.2045f3cc208dbf6540ec.png",
+    "static/media/light_grey_product.png": "/cinematic-display/static/media/light_grey_product.05db951e8781a06bddb3.png",
+    "static/media/dark_navy_product.png": "/cinematic-display/static/media/dark_navy_product.110cdea3aacebed3199a.png",
+    "static/media/coal_product.png": "/cinematic-display/static/media/coal_product.c19ac7d8aa5ed398ebcd.png",
+    "static/media/black_product.png": "/cinematic-display/static/media/black_product.9e5f8a92a2d24d464646.png",
     "static/media/film-logo.png": "/cinematic-display/static/media/film-logo.a3fd1c955451ea206cba.png",
     "static/media/poster_300x175.jpeg": "/cinematic-display/static/media/poster_300x175.970178fb703e40e9bff8.jpeg",
     "static/media/NetflixSans_W_Md.woff2": "/cinematic-display/static/media/NetflixSans_W_Md.a7eb753e6dc0059a0b06.woff2",
+    "static/media/product-brand-logo.svg": "/cinematic-display/static/media/product-brand-logo.17c53e21bcbb2fc4ac9b9e7e0f395768.svg",
     "static/media/shirt-icon-foreground.svg": "/cinematic-display/static/media/shirt-icon-foreground.f73e7b79b59782e980df482875de1934.svg",
     "static/media/unmuted-icon.svg": "/cinematic-display/static/media/unmuted-icon.6c867f45788568310fa9a6aa84079e15.svg",
     "static/media/muted-icon.svg": "/cinematic-display/static/media/muted-icon.d58a595fdd64e13c34650f3c4a587aa4.svg",
     "static/media/play-icon.svg": "/cinematic-display/static/media/play-icon.a54e4e0831d666c9595178160387c281.svg",
     "index.html": "/cinematic-display/index.html",
-    "main.b8d984c6.css.map": "/cinematic-display/static/css/main.b8d984c6.css.map",
-    "main.c65dcb86.js.map": "/cinematic-display/static/js/main.c65dcb86.js.map",
+    "main.99cf1b4f.css.map": "/cinematic-display/static/css/main.99cf1b4f.css.map",
+    "main.14596fbf.js.map": "/cinematic-display/static/js/main.14596fbf.js.map",
     "787.9e943b1c.chunk.js.map": "/cinematic-display/static/js/787.9e943b1c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8d984c6.css",
-    "static/js/main.c65dcb86.js"
+    "static/css/main.99cf1b4f.css",
+    "static/js/main.14596fbf.js"
   ]
 }
